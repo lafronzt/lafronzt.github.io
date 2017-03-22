@@ -1,6 +1,6 @@
 # About this Repo
 
-This repo host my personal website, which is based on [Aerial by HTML5 UP](https://html5up.net/aerial) by @ajlkn.
+This repo host my personal website, which is based on [Aerial by HTML5 UP](https://html5up.net/aerial) by [@ajlkn](https://github.com/ajlkn).
 
 ## About Me
 
